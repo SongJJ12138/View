@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="haha">
+        <attr name="textStr" format="string"/>
+        <attr name="Mycolor" format="color"/>
+        <attr name="myback" format="reference"/>
+    </declare-styleable>
+</resources>
